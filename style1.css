@@ -1,0 +1,18 @@
+h1{
+    text-shadow :   2px 3px 4px ;
+    color:rgb(226, 43, 43);
+    text-align: center;
+}
+
+
+   
+::placeholder
+{
+    color:rgb(165, 95, 42);
+}
+
+
+
+
+
+
